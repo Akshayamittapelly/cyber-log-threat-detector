@@ -1,5 +1,5 @@
 # cyber-log-threat-detector
-Initial commit: Added SOC Threat Detection System project that analyzes login logs and detects suspicious IP activity
+Python-based SOC project that analyzes login logs to detect suspicious login attempts and possible brute force attacks.
 * Topics used :-
 cybersecurity
 python
